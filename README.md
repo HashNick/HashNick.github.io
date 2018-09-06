@@ -1,4 +1,6 @@
 # HashNick.github.io
-Cualquier cosa
 
-https://hashnick.github.io/
+## Nicolas Leonardo Maldonado Garzón
+### Ingeniería de Sistemas y Computación
+### Universidad Nacional de Colombia
+Estudiante
